@@ -10,7 +10,7 @@ def wave(people):
 
             if  c.islower() == False:
                 arr.append(c)
-            print(c.islower())
+            print(c)
         return arr
         x+=1
     if c == 0:
